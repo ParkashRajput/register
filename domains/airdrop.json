@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "ParkashRajput"
+  },
+  "record": {
+    "CNAME": "pkump2v1.up.railway.app",
+    "TXT": ["railway-verify=9e2df51a63249282af9979282a01d5eefd7a8ef4c34af50f9b70b518e8a94cd4"]
+  }
+}
